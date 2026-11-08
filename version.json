@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updateTitle": "發現全新版本更新！",
+  "updateNotes": "1. 角色對話品質優化\n2. 升級輕量 AI 核心",
+  "appTitle": "AI 角色輔助",
+  "subTitle": "選擇輔助角色",
+  "model": {
+    "id": "gemma-2-2b-it-q4_k_m",
+    "version": "1",
+    "url": "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q4_K_M.gguf",
+    "bytes": 1708582752,
+    "sha256": "e0aee85060f168f0f2d8473d7ea41ce2f3230c1bc1374847505ea599288a7787"
+  }
+}
